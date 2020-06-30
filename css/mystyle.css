@@ -11,7 +11,6 @@ body {
 }
 
 /* section-------------------------------------------------------------------------*/
-@media (min-width: 1000px) {
   #zen-intro {
     height: 100vh;
     background: url(../images/背景2.png);
@@ -362,4 +361,3 @@ body {
     text-decoration: none;
     color: black;
   }
-}
